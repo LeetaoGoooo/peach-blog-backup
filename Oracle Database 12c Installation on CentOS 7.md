@@ -5,6 +5,8 @@ comments: true
 date: 2016-12-22
 ---
 
+
+
 :|
 | Oracle base  | /u01/app/oracle | 
 |  Software location    |   /u01/app/oracle/product/12.1.0/dbhome_1 |

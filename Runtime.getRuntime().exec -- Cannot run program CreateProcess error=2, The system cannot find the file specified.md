@@ -7,6 +7,8 @@ date: 2018-03-06
 
 
 
+
+
 # 问题原因
 
 最近有个需求用Java调用<code>nginx -V</code>并返回输出,查了一下决定使用<code>Runtime.getRuntime().exec()</code>去执行命令.代码如下:

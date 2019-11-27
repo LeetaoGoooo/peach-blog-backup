@@ -7,6 +7,8 @@ date: 2017-07-21
 
 
 
+
+
 最近写Python的时候,写类方法的时候,编译器老是建议我把一些方法改成静态方法,所以静态方法和普通方法有什么区别呢？当然提到了静态方法,也顺带提一下类方法，其中关于静态方法和类方法的区别，下面一段英文我觉得已经很好的解释了。
 
 >@classmethod means: when this method is called, we pass the class as the first argument instead of the instance of that class (as we normally do with methods). This means you can use the class and its properties inside that method rather than a particular instance.

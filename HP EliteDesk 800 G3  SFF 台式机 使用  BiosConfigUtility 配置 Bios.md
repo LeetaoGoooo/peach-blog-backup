@@ -8,6 +8,8 @@ date: 2017-11-25
 
 
 
+
+
 在windows下装个docker真是不容易,到最后一步,没有办法开启VTx. 其实很简单,前提如果是可以进入bios的情况下. 不知道怎么会是我的台式机(HP EliteDesk 800 G3  SFF )始终无法进入 bios,开机按 F10 会有声音但是没有任何画面,显示屏没有任何画面,我以为是连接显示器的接口问题,从集显接口换了蓝色的独显接口,但是还是没有任何作用.至到我找到了 BiosConfigUtility 这个 HP 官网的软件.从官网下载软件并安装.安装完成之后进入安装完成界面,如下图:
 
 ![](http://ww1.sinaimg.cn/large/006wYWbGly1flthwedk3uj30od07274o.jpg)

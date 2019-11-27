@@ -6,6 +6,8 @@ date: 2016-12-19
 ---
 
 
+
+
 This will configure on-boot properties of Oracle Database 11g Express 
 Edition.  The following questions will determine whether the database should 
 be starting upon system boot, the ports it will use, and the passwords that 

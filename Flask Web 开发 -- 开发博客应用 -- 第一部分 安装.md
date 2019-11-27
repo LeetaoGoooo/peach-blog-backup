@@ -7,6 +7,8 @@ date: 2018-12-16
 
 
 
+
+
 # 写在前面
 
 该项目在 Ubuntu16.04 平台下开发,基于 Flask 版本 1.0.2, 项目基本完成,现已开源,源码地址 : [peach-blog](https://github.com/lt94/peach-blog.git), 网站实际运行效果: [Leetao's Blog](http:www.leetao94.cn)

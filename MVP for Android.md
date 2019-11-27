@@ -7,6 +7,8 @@ date: 2016-11-03
 
 
 
+
+
 >翻译自 MVP for Android: how to organize the presentation layer
 [原文地址](http://antonioleiva.com/mvp-android)
 

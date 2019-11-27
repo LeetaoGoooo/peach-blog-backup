@@ -7,6 +7,8 @@ date: 2017-10-12
 
 
 
+
+
 之前项目中用上了easyui中的datebox,但是由于datebox 默认的时间格式 <code>m/d/y</code>，并不符合我的要求,于是参考手册将其时间格式修改为<code>y-m-d</code>.格式化的代码如下:
 
 ```javascript

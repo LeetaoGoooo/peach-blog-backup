@@ -8,6 +8,8 @@ date: 2017-11-16
 
 
 
+
+
 # 定义
 NotImplemented 的在标准库的定义如下:
 >Special value which should be returned by the binary special methods (e.g. *__eq__()* , *__lt__()*, *__add__()*, *__rsub__()*, etc.) to indicate that the operation is not implemented with respect to the other type; may be returned by the in-place binary special methods (e.g. *__imul__()*, *__iand__()*, etc.) for the same purpose. Its truth value is true.

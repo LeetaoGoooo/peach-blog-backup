@@ -7,6 +7,8 @@ date: 2018-05-28
 
 
 
+
+
 我的最终启动失败的原因是:No Module named 'pywintypes' 缺失引起的 Anaconda Navigator 启动失败,但是解决问题的方法是通用的.
 
 # 定位问题

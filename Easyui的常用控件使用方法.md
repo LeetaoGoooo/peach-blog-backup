@@ -6,6 +6,8 @@ date: 2016-10-09
 ---
 
 
+
+
 ### 获取combobox选中的值,文本
 ```javascript
 $('#com').combobox('getValue') //获取当前选中的值

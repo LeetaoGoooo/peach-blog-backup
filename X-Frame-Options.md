@@ -7,6 +7,8 @@ date: 2018-06-30
 
 
 
+
+
 # What is X-Frame-Options
 
 >X-Frame-Options HTTP 响应头是用来给浏览器指示允许一个页面可否在 **frame**, **iframe** 或者 **object** 中展现的标记。网站可以使用此功能，来确保自己网站的内容没有被嵌到别人的网站中去，也从而避免了点击劫持 (**clickjacking**) 的攻击。

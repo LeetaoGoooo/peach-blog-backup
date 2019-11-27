@@ -8,6 +8,8 @@ date: 2017-11-06
 
 
 
+
+
 前段时间在讲述 Flask-Login 的源码中遇见了一个函数 ——<code>partial</code>,这个函数来自于<code>functools</code>模块,这个模块定义为"The functools module is for higher-order functions: functions that act on or return other functions. In general, any callable object can be treated as a function for the purposes of this module",翻译成中文的大概意思就是"functools 用于高阶函数：指那些作用于函数或者返回其他函数的函数。总的来说，这个模块的目标就是将任何可调用的对象都可以被视为函数。"
 
 # functools.partial

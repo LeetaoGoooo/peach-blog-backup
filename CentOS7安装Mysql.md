@@ -7,6 +7,8 @@ date: 2016-12-04
 
 
 
+
+
 # 查看 CentOS 7的 yum 是否有 mysql-server 文件
 打开控制台,输入如下命令行:
 
