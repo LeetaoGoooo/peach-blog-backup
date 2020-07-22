@@ -1,6 +1,6 @@
 ---
 title: Openlayers3仿链家网效果(二)
-tag: [ShareSkill,Javascript,Openlayers3]
+tag: [Javascript,Openlayers3]
 comments: true
 date: 2017-06-02
 ---

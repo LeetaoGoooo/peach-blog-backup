@@ -1,6 +1,6 @@
 ---
 title: How To Structure Large Flask Applications
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2017-06-02
 ---

@@ -1,6 +1,6 @@
 ---
 title: MySQL的左连接,右连接和内连接
-tag: [ShareSkill,MySQL]
+tag: [MySQL]
 comments: true
 date: 2016-10-13
 ---

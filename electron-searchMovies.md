@@ -1,6 +1,6 @@
 ---
 title: electron-searchMovies
-tag: [ShareSkill]
+tag: []
 comments: true
 date: 2017-09-23
 ---

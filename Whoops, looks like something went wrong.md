@@ -1,6 +1,6 @@
 ---
 title: Whoops, looks like something went wrong
-tag: [Laravel,ShareSkill,PHP]
+tag: [Laravel,PHP]
 comments: true
 date: 2017-06-07
 ---

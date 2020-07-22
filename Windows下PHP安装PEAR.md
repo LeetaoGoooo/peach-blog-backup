@@ -1,6 +1,6 @@
 ---
 title: Windows下PHP安装PEAR
-tag: [PHP,ShareSkill]
+tag: [PHP]
 comments: true
 date: 2016-12-08
 ---

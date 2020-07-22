@@ -1,6 +1,6 @@
 ---
 title: Python读写文件之写文件
-tag: [Python,ShareSkill]
+tag: [Python]
 comments: true
 date: 2016-11-11
 ---

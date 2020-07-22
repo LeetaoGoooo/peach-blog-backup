@@ -1,6 +1,6 @@
 ---
 title: php artisan migrate 出错
-tag: [ShareSkill,PHP,Laravel]
+tag: [PHP,Laravel]
 comments: true
 date: 2017-06-07
 ---

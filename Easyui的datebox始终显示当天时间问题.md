@@ -1,6 +1,6 @@
 ---
 title: Easyui的datebox始终显示当天时间问题
-tag: [ShareSkill,Javascript,Easyui]
+tag: [Javascript,Easyui]
 comments: true
 date: 2017-10-12
 ---

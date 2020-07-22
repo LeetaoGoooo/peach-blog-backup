@@ -1,6 +1,6 @@
 ---
 title: Flask-Login用户会话管理
-tag: [ShareSkill,Python,Flask,源码]
+tag: [Python,Flask,源码]
 comments: true
 date: 2017-10-28
 ---

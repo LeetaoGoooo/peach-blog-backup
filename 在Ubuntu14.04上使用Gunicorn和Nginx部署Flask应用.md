@@ -1,6 +1,6 @@
 ---
 title: 在Ubuntu14.04上使用Gunicorn和Nginx部署Flask应用
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2017-11-13
 ---

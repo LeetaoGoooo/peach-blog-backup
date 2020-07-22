@@ -1,6 +1,6 @@
 ---
 title: Oracle Database 12c Installation on CentOS 7
-tag: [ShareSkill,Oracle]
+tag: [Oracle]
 comments: true
 date: 2016-12-22
 ---

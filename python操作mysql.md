@@ -1,6 +1,6 @@
 ---
 title: python操作mysql
-tag: [ShareSkill,Python,MySQL]
+tag: [Python,MySQL]
 comments: true
 date: 2017-10-11
 ---

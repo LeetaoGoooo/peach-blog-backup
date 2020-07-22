@@ -1,6 +1,6 @@
 ---
 title: Easyui的常用控件使用方法
-tag: [Javascript,前端插件,ShareSkill]
+tag: [Javascript,前端插件]
 comments: true
 date: 2016-10-09
 ---

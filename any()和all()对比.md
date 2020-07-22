@@ -1,6 +1,6 @@
 ---
 title: any()和all()对比
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-07-18
 ---

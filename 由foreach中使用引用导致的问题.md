@@ -1,6 +1,6 @@
 ---
 title: 由foreach中使用引用导致的问题
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2018-02-26
 ---

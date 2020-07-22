@@ -1,6 +1,6 @@
 ---
 title: Trait(性状)
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2017-06-02
 ---

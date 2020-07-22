@@ -1,6 +1,6 @@
 ---
 title: android-ActionBarCompat-ShareActionProvider
-tag: [ShareSkill,Android]
+tag: [Android]
 comments: true
 date: 2016-09-25
 ---

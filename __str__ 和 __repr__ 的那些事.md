@@ -1,6 +1,6 @@
 ---
 title: __str__ 和 __repr__ 的那些事
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2018-08-23
 ---

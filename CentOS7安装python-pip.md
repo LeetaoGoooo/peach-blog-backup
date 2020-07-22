@@ -1,6 +1,6 @@
 ---
 title: CentOS7安装python-pip
-tag: [ShareSkill,Linux,Python]
+tag: [Linux,Python]
 comments: true
 date: 2017-03-20
 ---

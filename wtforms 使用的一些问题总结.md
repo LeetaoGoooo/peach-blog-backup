@@ -1,6 +1,6 @@
 ---
 title: wtforms 使用的一些问题总结
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2017-12-04
 ---

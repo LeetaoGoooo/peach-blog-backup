@@ -1,6 +1,6 @@
 ---
 title: 编写可维护的JavaScript-第二章(注释)笔记
-tag: [读书笔记,ShareSkill,Javascript]
+tag: [读书笔记,Javascript]
 comments: true
 date: 2016-12-05
 ---

@@ -1,6 +1,6 @@
 ---
 title: define和const的区别-PHP常量
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2017-07-25
 ---

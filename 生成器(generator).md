@@ -1,6 +1,6 @@
 ---
 title: 生成器(generator)
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2017-06-06
 ---

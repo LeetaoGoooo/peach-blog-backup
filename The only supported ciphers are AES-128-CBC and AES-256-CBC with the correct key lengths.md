@@ -1,6 +1,6 @@
 ---
 title: The only supported ciphers are AES-128-CBC and AES-256-CBC with the correct key lengths
-tag: [ShareSkill,PHP,Laravel]
+tag: [PHP,Laravel]
 comments: true
 date: 2017-06-07
 ---

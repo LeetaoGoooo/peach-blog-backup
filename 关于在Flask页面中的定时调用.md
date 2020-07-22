@@ -1,6 +1,6 @@
 ---
 title: 关于在Flask页面中的定时调用
-tag: [ShareSkill,Javascript]
+tag: [Javascript]
 comments: true
 date: 2017-06-02
 ---

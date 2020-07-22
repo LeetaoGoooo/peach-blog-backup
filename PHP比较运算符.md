@@ -1,6 +1,6 @@
 ---
 title: PHP比较运算符
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2016-10-10
 ---

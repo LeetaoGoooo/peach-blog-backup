@@ -1,6 +1,6 @@
 ---
 title: 普通类方法和classmethod和staticmethod区别
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-07-21
 ---

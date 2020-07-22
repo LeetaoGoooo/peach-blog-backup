@@ -1,6 +1,6 @@
 ---
 title: 偏函数-functools之partial
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-11-06
 ---

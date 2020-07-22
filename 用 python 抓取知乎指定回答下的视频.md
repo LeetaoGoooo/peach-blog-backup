@@ -1,6 +1,6 @@
 ---
 title: 用 python 抓取知乎指定回答下的视频
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2018-11-06
 ---

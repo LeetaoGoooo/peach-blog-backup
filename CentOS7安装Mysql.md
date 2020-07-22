@@ -1,6 +1,6 @@
 ---
 title: CentOS7安装Mysql
-tag: [Linux,ShareSkill,MySQL]
+tag: [Linux,MySQL]
 comments: true
 date: 2016-12-04
 ---

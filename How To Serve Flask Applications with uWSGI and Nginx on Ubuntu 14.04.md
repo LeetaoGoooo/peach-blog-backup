@@ -1,6 +1,6 @@
 ---
 title: How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 14.04
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-04-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flask的源码系列——前身
-tag: [ShareSkill,Python,Flask,源码]
+tag: [Python,Flask,源码]
 comments: true
 date: 2018-04-23
 ---

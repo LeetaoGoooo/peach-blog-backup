@@ -1,6 +1,6 @@
 ---
 title: special method  __call__ python
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2018-04-26
 ---

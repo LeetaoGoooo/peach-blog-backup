@@ -1,6 +1,6 @@
 ---
 title: Parsing error x-invalid-end-tag
-tag: [ShareSkill,iview,Vue]
+tag: [iview,Vue]
 comments: true
 date: 2018-03-26
 ---

@@ -1,6 +1,6 @@
 ---
 title: 给你的Flask应用加上HTTPS的特效
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2018-01-21
 ---

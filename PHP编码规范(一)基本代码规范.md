@@ -1,6 +1,6 @@
 ---
 title: PHP编码规范(一)基本代码规范
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2016-10-24
 ---

@@ -1,6 +1,6 @@
 ---
 title: 为什么使用virtualenv
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2016-10-11
 ---

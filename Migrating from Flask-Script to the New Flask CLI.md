@@ -1,6 +1,6 @@
 ---
 title: Migrating from Flask-Script to the New Flask CLI
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2017-10-19
 ---

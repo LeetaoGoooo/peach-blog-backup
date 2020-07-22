@@ -1,6 +1,6 @@
 ---
 title: Install Oracle 11g Express (XE) on CentOS 7
-tag: [ShareSkill,Oracle]
+tag: [Oracle]
 comments: true
 date: 2016-12-19
 ---

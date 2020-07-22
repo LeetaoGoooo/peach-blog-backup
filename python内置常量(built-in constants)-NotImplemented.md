@@ -1,6 +1,6 @@
 ---
 title: python内置常量(built-in constants)-NotImplemented
-tag: [ShareSkill,Python,Python标准库]
+tag: [Python,Python标准库]
 comments: true
 date: 2017-11-16
 ---

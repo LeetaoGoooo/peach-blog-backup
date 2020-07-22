@@ -1,6 +1,6 @@
 ---
 title: MVP for Android
-tag: [Android,ShareSkill]
+tag: [Android]
 comments: true
 date: 2016-11-03
 ---

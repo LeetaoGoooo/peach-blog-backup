@@ -1,6 +1,6 @@
 ---
 title: 编写可维护的JavaScript-第一章(基本的格式化)笔记
-tag: [ShareSkill,Javascript,读书笔记]
+tag: [Javascript,读书笔记]
 comments: true
 date: 2016-12-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: MySQL的查询缓存
-tag: [ShareSkill,MySQL]
+tag: [MySQL]
 comments: true
 date: 2017-07-28
 ---

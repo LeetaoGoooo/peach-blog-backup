@@ -1,6 +1,6 @@
 ---
 title: selenium的安装与使用
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-02-22
 ---

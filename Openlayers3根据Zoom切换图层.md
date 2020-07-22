@@ -1,6 +1,6 @@
 ---
 title: Openlayers3根据Zoom切换图层
-tag: [ShareSkill,Javascript,Openlayers3]
+tag: [Javascript,Openlayers3]
 comments: true
 date: 2017-03-13
 ---

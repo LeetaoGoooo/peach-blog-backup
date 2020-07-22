@@ -1,6 +1,6 @@
 ---
 title: Flask的g对象和钩子函数
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2018-10-30
 ---

@@ -1,6 +1,6 @@
 ---
 title: context_processor 上下文处理器
-tag: [ShareSkill,Python,Flask]
+tag: [Python,Flask]
 comments: true
 date: 2018-11-21
 ---

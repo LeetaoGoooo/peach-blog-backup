@@ -1,6 +1,6 @@
 ---
 title: Windows下安装PHPunit
-tag: [ShareSkill,PHP]
+tag: [PHP]
 comments: true
 date: 2016-12-08
 ---

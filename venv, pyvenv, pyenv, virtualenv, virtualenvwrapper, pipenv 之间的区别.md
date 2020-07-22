@@ -1,6 +1,6 @@
 ---
 title: venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv 之间的区别
-tag: [ShareSkill,Python]
+tag: [Python]
 comments: true
 date: 2017-10-11
 ---
