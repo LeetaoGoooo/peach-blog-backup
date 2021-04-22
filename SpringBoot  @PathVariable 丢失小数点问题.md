@@ -5,6 +5,8 @@ comments: true
 date: 2019-10-25
 ---
 
+
+
 # 前言
 
 最近在使用` Spring Boot` 的 `@PathVariable` 碰见一个有趣的问题, `@PathVariable`  默认一般情况下匹配字符串都是十分正常的，一旦遇到带有 `.后缀`  的 字符串就会出现将 `.后缀` 丢失的问题。举个例子，当我们使用 `@PathVariable`   去匹配 `a.b.c.d`  的时候，匹配的结果为 `a.b.c`

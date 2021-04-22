@@ -5,6 +5,8 @@ comments: true
 date: 2020-07-02
 ---
 
+
+
 ### 专题目标
 
 借由 Python 梳理 23 个常用的设计模式

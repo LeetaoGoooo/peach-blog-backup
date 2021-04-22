@@ -9,6 +9,8 @@ date: 2017-09-23
 
 
 
+
+
 之前学了electron,前段时间又学了一下vue,为了增加熟练度决定将两者结合做个有趣的东西.想来想去最后决定将原来用 PyQt 写的[MovieHeavens](https://github.com/lt94/MovieHeavens)重新写一遍,使用electron-vue构建的项目地址[electron-searchMovies](https://github.com/lt94/electron-searchMovies),最后用*electron-packager*打包了成exe,在项目主页的releases可以找到打包后的安装程序.总结一下整个问题中遇见的几点问题以及解决办法.
 
 ## 无法下载打包所需的工具

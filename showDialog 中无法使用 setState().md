@@ -5,6 +5,8 @@ comments: true
 date: 2020-08-16
 ---
 
+
+
 # 前言
 showDialog 是 flutter 中一个展示 Material 风格对话框函数，正常情况下使用对话框，都是有相应对交互逻辑的，当我们需要改变某个属性的状态时，通常情况下会发现 **setState()** 无法使用。
 

@@ -9,6 +9,8 @@ date: 2019-01-30
 
 
 
+
+
 # 前言
 
 Docker for Windows/Mac 上的 Kubernetes 启动时需要下载镜像,部分镜像国内无法访问,会出现 Kubernetes 一直 starting 的情况

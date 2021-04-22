@@ -9,6 +9,8 @@ date: 2017-06-07
 
 
 
+
+
 搭建 Laravel 完成之后,尝试访问默认页面，然后出现了
 **Whoops, looks like something went wrong.**的错误提示信息。
 ![](http://ww1.sinaimg.cn/large/d9e82fa4ly1fgcuuws5uxj211p064mxj.jpg)

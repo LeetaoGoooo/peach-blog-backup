@@ -5,6 +5,8 @@ comments: true
 date: 2020-06-26
 ---
 
+
+
 # 前言
 
 最近准备用 kindleGen 将一些 RSS 生产 mobi 然后推送到 kindle 上去，发现 kindleGen 没有办法在 macOS 下使用了，使用的时候会出现错误：

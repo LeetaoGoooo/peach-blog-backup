@@ -8,6 +8,8 @@ date: 2019-02-28
 
 
 
+
+
 # 前言
 
 最近写 Spring Boot 中 module 发现使用 **Autowired** 注入失败.

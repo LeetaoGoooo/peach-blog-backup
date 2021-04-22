@@ -5,6 +5,8 @@ comments: true
 date: 2019-10-15
 ---
 
+
+
 # 前言
 
 今天在 windows 下打包 PyQt5 应用出现了 **ImportError: unable to find Qt5Core.dll on PATH** 错误，搜索了一下找到以下解决办法

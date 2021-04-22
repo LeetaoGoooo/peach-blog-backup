@@ -9,6 +9,8 @@ date: 2017-06-07
 
 
 
+
+
 在执行 *php artisan migrate*出现如下错误:
 ![](http://ww1.sinaimg.cn/large/d9e82fa4ly1fgcuzkgc7zj20og09xwfm.jpg)
 

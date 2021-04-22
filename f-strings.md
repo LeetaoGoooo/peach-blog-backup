@@ -7,6 +7,8 @@ date: 2019-05-22
 
 
 
+
+
 # 前言
 
 在 Python 3.6 之后,除了原有的 % 和 str.format() 字符串格式化的方法, 又新增了一种 f-strings. 官方也更加推荐使用 f-strings. 那么 f-strings 有哪些喜人的特性呢?

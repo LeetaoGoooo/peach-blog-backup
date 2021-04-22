@@ -5,6 +5,8 @@ comments: true
 date: 2020-05-20
 ---
 
+
+
 # 前言
 最近在使用 Anaconda 自带的 Python 环境，在交互模式下 `import sqlite3` 出现异常，异常信息如下:
 

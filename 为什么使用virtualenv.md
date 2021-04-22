@@ -8,6 +8,8 @@ date: 2016-10-11
 
 
 
+
+
 # virtualenv 的安装
 ## Ubuntu 下 virtualenv 的安装
 Ubuntu 下的安装 python 的第三方依赖库就不得不提 python 的三大神器之 **pip**.默认情况下 Ubuntu 是没有安装的,可以在命令行下使用*pip xxx* 进行简单测试.

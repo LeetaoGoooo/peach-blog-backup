@@ -8,6 +8,8 @@ date: 2018-02-08
 
 
 
+
+
 # 原因
 
 docker默认镜像拉取地址为国外仓库下载速度较慢,则会报错"net/http: TLS handshake timeout"

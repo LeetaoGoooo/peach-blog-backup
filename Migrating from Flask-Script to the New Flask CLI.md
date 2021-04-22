@@ -9,6 +9,8 @@ date: 2017-10-19
 
 
 
+
+
 >原文:https://blog.miguelgrinberg.com/post/migrating-from-flask-script-to-the-new-flask-cli
 
 ![](http://ww1.sinaimg.cn/large/006wYWbGly1fknogoype5j30ci0810so.jpg)

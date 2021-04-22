@@ -5,6 +5,8 @@ comments: true
 date: 2020-04-14
 ---
 
+
+
 # 前言
 重新安装了 Docker，然后启动其中的 MySQL 镜像，通过 pymysql 去连接数据库，出现了下面错误:
 

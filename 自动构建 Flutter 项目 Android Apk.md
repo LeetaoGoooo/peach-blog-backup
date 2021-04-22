@@ -5,6 +5,8 @@ comments: true
 date: 2021-01-08
 ---
 
+
+
 #  前言
 前段时间用 Flutter 做了一个开源的项目 [RSSAid](https://github.com/lt94/RSSAid),因为需要打包 apk，在此之前一直是在本地签名打包的。后来和别人交流了一下，想起来可以用 Github Action 构建持续化集成，自动打包。然后就研究了一下，最后完成了根据 tag 版本自动生成 apk 的 workflows。
 #  Workflows

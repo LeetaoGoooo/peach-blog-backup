@@ -9,6 +9,8 @@ date: 2017-08-31
 
 
 
+
+
 Given n points in the plane that are all pairwise distinct, a "boomerang" is a tuple of points <code>(i, j, k)</code> such that the distance between <code>i</code> and <code>j</code> equals the distance between <code>i</code> and <code>k</code> (the order of the tuple matters).
 
 Find the number of boomerangs. You may assume that n will be at most **500** and coordinates of points are all in the range **[-10000, 10000]** (inclusive).

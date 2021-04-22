@@ -5,6 +5,8 @@ comments: true
 date: 2020-06-06
 ---
 
+
+
 # 前言
 通常情况下，我们会使用Flask来开发网站，但是也有的时候我们只是想用 Flask 来简单的创建 RestFul 的 Api，这个时候可能会使用其他的 Flask 拓展来帮助完成这一切，我前段时间就使用 [Flask-Restful](https://github.com/flask-restful/flask-restful) 这个库去实现简单的接口了。既然是接口必然是提供给别人的使用的，这个时候就涉及到序列化的问题，Flask-Restful 这个库提供了一个 [fields](https://flask-restful.readthedocs.io/en/latest/api.html#module-fields) 模块帮助完成结果的格式化，比如常用的 fields.String,fields.Float,fields.Integer 等等，使用起来也很方便，直到我开始使用 **fileds.DateTime**。
 

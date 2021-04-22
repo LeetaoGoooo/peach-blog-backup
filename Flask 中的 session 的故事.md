@@ -8,6 +8,8 @@ date: 2019-03-12
 
 
 
+
+
 # 前言
 
 凡是使用过 Flask,可能对 Flask 中  session 不陌生, 我们通常用 session 保存特定的用户信息,从而达到在 request 请求之间共享数据的目的,需要注意的一点 flask 中的 session 是基于 cookies 实现的,也就意味着着受制于 cookies,一旦出于某种原因 cookies 失效了,也就意味着 session 也会随之失效. 

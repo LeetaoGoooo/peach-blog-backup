@@ -8,6 +8,8 @@ date: 2019-08-21
 
 
 
+
+
 # 前言
 
 今天随手翻 stackoverflow，看到问题叫 [How do I check if a list is empty?](https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty) 一看这个问题，不难猜到到这是一个刚学 Python 的人提问的，因为这个问题实在是太基础了，那么如何判断呢？

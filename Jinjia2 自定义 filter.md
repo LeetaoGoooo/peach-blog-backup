@@ -9,6 +9,8 @@ date: 2018-10-16
 
 
 
+
+
 # 前言
 
 用过 <code>flask</code> 的人肯定对 <code>jinjia2</code> 不会陌生,自然对 <code>Jinjia2</code> 自带的 <code>filter</code> 也有印象，但是其自带的 filter 实在有限，有些时候就不得不需要我们自己定义 <code>filter</code> 了,接下来的例子将介绍如何自定义 <code>filter</code>
